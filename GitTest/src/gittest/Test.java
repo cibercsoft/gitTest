@@ -1,2 +1,4 @@
+package gittest;
+
 class Test{
 }
