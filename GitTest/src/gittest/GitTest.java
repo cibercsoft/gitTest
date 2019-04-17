@@ -18,4 +18,7 @@ public class GitTest {
         // TODO code application logic here
     }
     
+    public static void hola(){
+        
+    }
 }
